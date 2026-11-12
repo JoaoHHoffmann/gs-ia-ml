@@ -1,0 +1,12 @@
+# Dados brutos baixados (grandes, não vão para o GitHub)
+ml/dados/brutos/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
